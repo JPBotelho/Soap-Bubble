@@ -7,11 +7,12 @@ A Unity implementation of the Bubble Shader paper found in the book
 You can find the original paper inside the repo.
 
 I should have all the other papers in another repository. They're great, you should take a look.
+EDIT: none are up yet 
 
 Cubemaps and rainbow map were extracted from the PDF. 
 Using legacy cubemaps for the time being. Feel free to make a texture out of it.
 
-![Bubble](Render.png "Render.png")
+![Bubble](Render.PNG "Render.png")
 
 # Usage
 
