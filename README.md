@@ -29,3 +29,6 @@ Currently, there's a weird problem with Fresnel Term calculation, most likely be
 Will have to try with a different mesh when i have the time. 
 
 But hey, it works fine if you only view it from a certain angle!
+
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
